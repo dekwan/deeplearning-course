@@ -1,0 +1,15 @@
+## Developer Lesson
+- Gemini.md for developers
+    - Tests, Lint, Build, (npm run preflight) etc
+- GitHub Actions
+- VsCode Extension
+    - Brief mention
+- Contributing to the Gemini CLI open source project
+- Resuming previous sessions 
+    - /resume
+- Effective prompting
+    - Tie this into using git to get back work
+    - Faster in my experience to just `git checkout .` and restart with a more descriptive plan/prompt over trying to course correct
+- ! Shell mode
+    - be quick and use within a use-case
+- Custom slash commands 
